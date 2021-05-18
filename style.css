@@ -1,0 +1,54 @@
+        
+            h1 {
+                color: rgb(217, 231, 21);
+            }
+            
+            .header {
+                background-color: rgb(3, 3, 3);
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .site-description {
+                background-color: rgb(195, 182, 199);
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+            }
+            
+            .GAME1 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .p1 {
+                display: flex;
+                flex-flow: column wrap;
+                justify-content: center;
+            } 
+
+
+            .p2 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .GAME2 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+            }
+
+            .networking-site {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: flex-end;
+            }
+
+            p,h2 {
+                text-align: center;
+            }
+
+            body
+            {background-color: rgb(8, 19, 121);}
